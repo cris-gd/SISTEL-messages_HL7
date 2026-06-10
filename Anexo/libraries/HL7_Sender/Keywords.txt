@@ -1,0 +1,7 @@
+HL7_Sender	KEYWORD1
+Init	KEYWORD2
+createSegment	KEYWORD2
+createField	KEYWORD2
+appendField	KEYWORD2
+getSegment KEYWORD2
+endSegment	KEYWORD2

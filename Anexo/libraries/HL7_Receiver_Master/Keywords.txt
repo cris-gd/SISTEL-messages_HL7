@@ -1,0 +1,7 @@
+HL7_Receiver	KEYWORD1
+Init	KEYWORD2
+readSegment	KEYWORD2
+getSegmentType	KEYWORD2
+readField	KEYWORD2
+readSubfields	KEYWORD2
+readSingleSubfield	KEYWORD2
